@@ -17,7 +17,7 @@ turtle->move(Turtle* turtle, float distance);
 ```C
 turtle->rotate(Turtle* turtle, float angle);
 ```
-*Note : angle must be given in degrees*
+> Note : angle must be given in degrees
 
 #### free
 
