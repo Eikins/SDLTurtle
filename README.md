@@ -33,6 +33,6 @@ for(int i = 0; i < 8; i++) {
   turtle->move(turtle, 20 * i);
   turtle->rotate(turtle, 90);
 }
-turtle->free;
+turtle->free(turtle);
 ```
 
